@@ -1,0 +1,4 @@
+A BetterTech foi criada com o objetivo de facilitar a vida de pessoas que necessitam de fazer apresentações, porém tem dificuldades 
+em sua maneira de se expressar, nosso projeto se resume em basicamente a pessoa gravar um aúdio com sua apresentação que virará um
+texto que será análisado pelo chat gpt de forma que ele avalie seus pontos fortes e negativos passando um feedback de onde você pode
+melhorar sua apresentação.
